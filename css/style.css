@@ -1,0 +1,44 @@
+.ppp{
+  text-align: center;
+
+}
+
+.about{
+  text-align: center;
+}
+#mymenu{
+  padding-top: 50px;
+  text-align: center;
+}
+
+.img-fluid {
+  padding-top: 50px;
+  max-height: 300px;
+}
+#crepe{
+  padding-top: 20px;
+}
+#piata{
+  background: #890;
+}
+.piata{
+  text-align: left;
+}
+#neo{
+  padding-top: 20px;
+}
+.img{
+  width: 40%;
+}
+.piata li{
+  font-size: 22px;
+
+}
+
+.con, #myfooter{
+  text-align: center;
+}
+
+body{
+  background: url('../images/backround.jpg');
+}
